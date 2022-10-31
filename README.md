@@ -1,6 +1,6 @@
-# Rock, Paper, Scissors, Lizard, Spock
+# Rock, Paper, Scissors, Lizard, Spock 
 
-Game of Rock, Paper, Scissors, Lizard, Spock. 
+Game of Rock 🗿, Paper 📃, Scissors ✂️, Lizard 🦎, Spock 🖖. 
 
 The player is prompted to choose what is going to play.
 A random play is generated to play against the player and the winner is displayed.
