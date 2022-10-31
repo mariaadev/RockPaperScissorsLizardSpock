@@ -120,7 +120,7 @@ def display_tie(play1,play2):
     """
     Displays if there's a tie
     """
-    print(f"There's a tie between {play1.description()} 🥶") 
+    print(f"There's a tie between {play1.description()} 🥶")
 
 def display_victory(winner):
     """
